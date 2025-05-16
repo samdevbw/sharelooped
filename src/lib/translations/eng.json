@@ -1,0 +1,27 @@
+{
+  "auth": {
+    "login": "Sign In",
+    "register": "Sign Up",
+    "email": "Email Address",
+    "password": "Password",
+    "fullName": "Full Name",
+    "rememberMe": "Remember me",
+    "forgotPassword": "Forgot your password?",
+    "dontHaveAccount": "Don't have an account?",
+    "alreadyHaveAccount": "Already have an account?"
+  },
+  "dashboard": {
+    "welcome": "Welcome back",
+    "portfolioValue": "Total Portfolio Value",
+    "todaysChange": "Today's Change",
+    "investments": "Investments",
+    "recentActivity": "Recent Activity"
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "portfolio": "Portfolio",
+    "learn": "Learn",
+    "settings": "Settings",
+    "logout": "Logout"
+  }
+}

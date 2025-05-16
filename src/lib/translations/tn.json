@@ -1,0 +1,27 @@
+{
+  "auth": {
+    "login": "Tsena",
+    "register": "Ikwadise",
+    "email": "Aterese ya Email",
+    "password": "Khunololamoraba",
+    "fullName": "Leina ka Botlalo",
+    "rememberMe": "Nkgopole",
+    "forgotPassword": "O lebetse khunololamoraba?",
+    "dontHaveAccount": "Ga o na akhaonto?",
+    "alreadyHaveAccount": "O setse o na le akhaonto?"
+  },
+  "dashboard": {
+    "welcome": "O amogeletswe",
+    "portfolioValue": "Boleng Jotlhe jwa Ditseletso",
+    "todaysChange": "Diphetogo tsa Gompieno",
+    "investments": "Dipeeletso",
+    "recentActivity": "Ditiro tsa Bosheng"
+  },
+  "navigation": {
+    "dashboard": "Letlhabaphefo",
+    "portfolio": "Dipeeletso",
+    "learn": "Ithute",
+    "settings": "Ditlhophiso",
+    "logout": "Tswa"
+  }
+}
